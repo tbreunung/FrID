@@ -8,6 +8,10 @@ This software is made public for research use. It may be modified and redistribu
 
 # Content
 This repository provides code to reproduce the findings and figures of [1] and [2].
+
+# Videos
+A tutorial on how to use FrID is provided at https://www.youtube.com/watch?v=ggWzUJM4XPM. 
+Consider also listening to my research talk on this topic: https://www.youtube.com/watch?v=8cQhZ5BIbz4.
  
 # Citation
 Please consider citing [1] if you use any of these codes for your own work. 
